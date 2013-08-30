@@ -1,6 +1,7 @@
 # UUID                                  	Group Name
 #
 88942e893586df890a3249ad645c74092f2bf6eb	chromiumos-toolchain-owners
+90ae353754880d03a2d1d10f7d14f56da93d2624	chrome-infra-team
 983f082edb6b3df147875ba1acdbe37af5f4201c	cros-trybot
 99d8472e7048286ce8a7386a221797d885ff3f91	Administrators
 b6fab68f7e8704c8979340f4a2da027b23cd4021	gob-replication
