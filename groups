@@ -16,3 +16,4 @@ f9035f7f62928b3b6813207f7779d50d8858afe8	chromiumos-owners
 global:Registered-Users                 	Logged-in Public Users
 mdb:chromeos-branch-creators            	mdb/chromeos-branch-creators
 mdb:chromeos-build-deputy               	mdb/chromeos-build-deputy
+mdb:chromeos-gerrit-sandbox-access      	mdb/chromeos-gerrit-sandbox-access
