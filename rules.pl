@@ -22,7 +22,7 @@ submit_rule(Out) :-
     check_branch_review(A, B),
     check_bot_commit(B, C),
     hide_lcq_label(C, D),
-    Out =.. [submit | d].
+    Out =.. [submit | D].
 
 %% opt_in_find_owners
 %  Governs which changes are affected by the find-owners submit filter.
