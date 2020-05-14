@@ -21,6 +21,7 @@ f9035f7f62928b3b6813207f7779d50d8858afe8	chromiumos-owners
 fbe287c011ca394aec9ad2a40d71e8bbfce9b67d	jetstream-committers
 global:Change-Owner                     	Change Owner
 global:Registered-Users                 	Logged-in Public Users
+mdb:chrome-git-admins                   	mdb/chrome-git-admins
 mdb:chromeos-branch-creators            	mdb/chromeos-branch-creators
 mdb:chromeos-build-deputy               	mdb/chromeos-build-deputy
 mdb:chromeos-leak-stoppers              	mdb/chromeos-leak-stoppers
